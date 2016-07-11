@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there! \n I’m the personal bot of Marc",
+    "BOT": "Hi there! \n I’m Le Bot.",
     "HELLO": "Hey champ, how's it going? \n Want to find out more about %[Visual Design](postback:Visual Design) or %[User Experience](postback:User Experience)?",
     "WTF": "What the fudge do you mean?",
     "VISUAL DESIGN": "VISUAL DESIGN IS FUCKING AWESOME! \n![visual design](https://raw.githubusercontent.com/warnsinnig/EstherBot/master/img/vd.jpg)",
