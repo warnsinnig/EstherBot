@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there! \n I’m Le Bot.",
-    "HELLO": "Hey champ, how's it going? \n Want to find out more about %[Visual Design]('Visual Design') or %[User Experience]? %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey champ, how's it going? \n Want to find out more about %[Visual Design]('Visual Design') or %[User Experience]? %[Tweet Esther](Visual Design)",
     "WTF": "What the fudge do you mean?",
     "VISUAL DESIGN": "VISUAL DESIGN IS FUCKING AWESOME! \n![esther](https://raw.githubusercontent.com/warnsinnig/EstherBot/master/img/vd.jpg)",
     "USER EXPERIENCE": "User Experience, nah yeah... \n![esther](https://raw.githubusercontent.com/warnsinnig/EstherBot/master/img/ue.jpg)",
